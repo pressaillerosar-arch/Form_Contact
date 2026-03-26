@@ -1,6 +1,7 @@
 import { useState } from "react";
 import EmployeeList from "./components/EmployeeList";
 import EmployeeForm from "./components/EmployeeForm";
+import EmployeeCard from "./components/EmployeeCard";
 import "./App.css";
 
 const initialEmployees = [
